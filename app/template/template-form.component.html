@@ -1,0 +1,35 @@
+<div class="jumbotron text-center" *ngIf="submitted">
+	<h2>Thanks for your submission!</h2>
+	<p>We appreciate it!</p>
+</div>
+
+<form (ngSubmit)="processForm()" *ngIf="!submitted" #form="ngForm">
+	{{form.valid}}
+	<div class="form-group" 
+		[ngClass]="{
+			'has-error': name.invalid && name.touched, 
+			'has-success': name.valid && name.touched
+		}">
+		<label class="control-label">Name</label>
+		<input class="form-control" name="name" type="text" required="true" [(ngModel)]="user.name" #name="ngModel">
+		<span class="help-block" *ngIf="name.invalid && name.touched">
+			Name is required.
+		</span>
+	</div>
+	<div class="form-group" 
+		[ngClass]="{
+			'has-error': username.invalid && username.touched, 
+			'has-success': username.valid && username.touched
+		}">
+		<label class="control-label">User Name</label>
+		<input class="form-control" name="username" type="text" required="true" [(ngModel)]="user.username" #username="ngModel">
+		<span class="help-block" *ngIf="username.invalid && username.touched">
+			User Name is required.
+		</span>
+	</div>
+	<div class="form-group">
+		<button class="btn btn-primary" type="submit" [disabled]="form.invalid">Save</button>
+	</div>
+
+	{{diagnostic}}
+</form>

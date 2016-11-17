@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userUserName\tproperty"
+			],
+			[
+				"username",
+				"username\t(template-form.component.html)"
+			],
+			[
+				"Form",
+				"FormsModule"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"style",
+				"styleUrls\tproperty"
+			],
+			[
+				"table",
+				"table-condensed"
+			],
+			[
+				"horse",
+				"horse_id"
+			],
+			[
+				"qry",
+				"qryRaceLineList"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"content",
+				"content-width"
+			],
+			[
+				"text",
+				"text-font"
+			],
+			[
+				"header",
+				"header-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 459.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"CFML: Key Bindings - Default"
+			],
+			[
+				"newfie",
+				"File: New File Relative to Current View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 597.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Mobile/horsesearch"
+	],
+	"file_history":
+	[
+		"/C/Projects/scotch.io/ng2-forms/app/template/template-form.component.html",
+		"/C/Users/derek.brigner/AppData/Roaming/Sublime Text 3/Packages/CFML/inputmaps/Default (Windows).sublime-keymap",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspRaceCardByHorse.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspHorseList.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspRaceCard.cfm",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_race-status.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/app.scss",
+		"/C/Coldfusion/wwwmobile/views/main/index.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspDateList.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspTrackList.cfm",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_post-pos.scss",
+		"/C/Coldfusion/wwwmobile/views/articles/articleList.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspTrackListByDate.cfm",
+		"/C/Coldfusion/wwwmobile/views/links/industry.cfm",
+		"/C/Coldfusion/wwwmobile/views/topperformers/dspDriversTrainers.cfm",
+		"/C/Coldfusion/wwwmobile/views/topperformers/dspDriverTrainerStats.cfm",
+		"/C/Coldfusion/wwwmobile/views/topperformers/dspHorses.cfm",
+		"/C/Coldfusion/wwwmobile/views/topperformers/dspHorseStats.cfm",
+		"/C/Coldfusion/wwwmobile/views/topperformers/index.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/dspDateListByTrack.cfm",
+		"/C/Coldfusion/wwwmobile/helpers/RaceUtil.cfc",
+		"/C/Coldfusion/wwwmobile/layouts/Main.cfm",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_custom.scss",
+		"/C/Coldfusion/wwwmobile/handlers/EntriesAndResults.cfc",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_elements.scss",
+		"/C/Coldfusion/wwwmobile/includes/javascript/app.js",
+		"/C/Coldfusion/wwwmobile/handlers/Articles.cfc",
+		"/C/Coldfusion/wwwmobile/handlers/Main.cfc",
+		"/C/Coldfusion/wwwmobile/views/articles/article.cfm",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/horseDetail.cfm",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_headno.scss",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/horseSearch.cfm",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/bootstrap/_list-group.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/bootstrap/_list-group.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/_bootstrap.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_footer.scss",
+		"/C/Coldfusion/wwwmobile/model/entriesandresults/EntriesAndResultsService.cfc",
+		"/C/Coldfusion/wwwmobile/model/entriesandresults/EntriesAndResultsGateway.cfc",
+		"/C/Coldfusion/wwwmobile/config/WireBox.cfc",
+		"/C/Coldfusion/wwwmobile/model/topperformers/TopPerformersGateway.cfc",
+		"/C/Coldfusion/wwwmobile/model/topperformers/TopPerformersService.cfc",
+		"/C/Coldfusion/wwwmobile/model/newsheadlines/NewsHeadlinesGateway.cfc",
+		"/C/Coldfusion/wwwmobile/model/newsheadlines/NewsHeadlinesService.cfc",
+		"/C/Coldfusion/wwwmobile/model/links/LinksService.cfc",
+		"/C/Coldfusion/wwwmobile/model/links/LinksGateway.cfc",
+		"/C/Coldfusion/wwwmobile/model/sectionmessagelink/SectionMessageLinkService.cfc",
+		"/C/Coldfusion/wwwmobile/model/sectionmessagelink/SectionMessageLinkGateway.cfc",
+		"/C/Coldfusion/wwwmobile/model/entriesandresults/EntriesAndResultsServices.cfc",
+		"/C/Coldfusion/wwwmobile/views/entriesandresults/index.cfm",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/bootstrap/_variables.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/font-awesome/_variables.scss",
+		"/C/Coldfusion/wwwmobile/handlers/TopPerformers.cfc",
+		"/C/Coldfusion/wwwmobile/views/topperformers/optionList.cfm",
+		"/C/Coldfusion/wwwmobile/Application.cfc",
+		"/C/Coldfusion/wwwmobile/Application_inheritance.cfc",
+		"/C/Coldfusion/wwwmobile/includes/sass/font-awesome.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/fontawesome/_variables.scss",
+		"/C/Coldfusion/wwwmobile/handlers/Links.cfc",
+		"/C/Coldfusion/wwwmobile/includes/sass/_custom.scss",
+		"/C/Coldfusion/wwwmobile/includes/sass/custom/_masthead.scss",
+		"/C/Coldfusion/wwwmobile/.gitignore",
+		"/C/Projects/branding/css/www.css",
+		"/C/Projects/branding/sass/branding.sublime-project",
+		"/C/Users/derek.brigner/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Projects/branding/sass/www.scss",
+		"/C/Projects/branding/sass/custom/www/_variables.scss",
+		"/C/Projects/branding/pathway.html",
+		"/C/Projects/branding/stars.html",
+		"/C/Projects/branding/www.html",
+		"/C/Projects/branding/sass/custom/stars/_variables.scss",
+		"/C/Projects/branding/sass/custom/pathway/_variables.scss",
+		"/C/Projects/branding/sass/app.scss",
+		"/C/Projects/branding/css/app.css",
+		"/C/Users/derek.brigner/AppData/Roaming/Sublime Text 3/Packages/User/Build Compressed SASS to CSS Directory.sublime-build",
+		"/C/Projects/branding/sass/stars.scss",
+		"/C/Projects/branding/sass/pathway.scss",
+		"/C/Projects/sass-example/index.html",
+		"/C/Projects/sass-example/sass/main.scss",
+		"/C/Projects/sass-example/sass/_variables.scss",
+		"/C/Projects/sass-example/css/main.css.map",
+		"/C/Users/derek.brigner/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Projects/sass-example/css/_variables.css",
+		"/C/Projects/sass-example/portfolio.html",
+		"/C/Projects/sass-example/about.html",
+		"/C/Projects/sass-example/css/main.css",
+		"/C/Users/derek.brigner/AppData/Roaming/Sublime Text 3/Packages/User/Build To CSS Directory.sublime-build",
+		"/C/Projects/sass-example/contact.html",
+		"/C/Projects/sass-example/sass/main.css",
+		"/C/Users/derek.brigner/AppData/Roaming/Sublime Text 3/Packages/User/Build To CSS.sublime-build",
+		"/C/Projects/sass-example/sass/style.scss",
+		"/C/Projects/sass-example/sass/stylez.scss",
+		"/C/Projects/sass-example/sass/sass-example.scss",
+		"/C/Projects/sass-example/css/stylez.css",
+		"/C/Projects/sass-example/css/stylez.css.map",
+		"/C/Projects/bootstrap-sass/Gemfile",
+		"/C/Projects/bootstrap-sass/styles/sass.scss",
+		"/C/Projects/bootstrap-sass/bootstrap-sass.gemspec",
+		"/C/Projects/bootstrap-sass/assets/stylesheets/bootstrap/_alerts.scss"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 196.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"userName",
+			"odds",
+			"cfdump",
+			"scr_major",
+			"Finish",
+			"<br />",
+			"track_name",
+			"30px",
+			"qryRaceLineList",
+			"test",
+			"col-md-1",
+			"odds",
+			"headno",
+			"options",
+			"headno",
+			"15px",
+			"18px",
+			"odds",
+			"dollar_odds",
+			"site_race_date_list_mobile_listbytrack_code",
+			"http://scotch.io",
+			"nav-item",
+			"http://example.com",
+			"https://scotch.io",
+			"odds",
+			"getHeadNoColor",
+			"qua",
+			"tracks racing",
+			"scr",
+			"head",
+			"rc.",
+			"#request.wwwmobile.datasources.racingreader#",
+			"url.id",
+			"List",
+			"footer",
+			"\t\t\t\t\t\t\t\t\n",
+			"qry",
+			"struct",
+			"qry",
+			"articlecount",
+			"optionList",
+			"horseSearch",
+			"#news_manager#",
+			"qryHeadlineOne",
+			"style=\"color: white;\"",
+			"btn btn-link btn-social-icon",
+			"\";\n",
+			"border-radius",
+			"$component-color",
+			"$brand-primary",
+			"$component-active-color",
+			"$border-radius-large",
+			"component",
+			"toggle",
+			"dropdown",
+			"nav",
+			"larger",
+			"btn",
+			"navbar",
+			"#cac997",
+			"$border-radius-base",
+			"dropdown",
+			"nav",
+			"list",
+			"link",
+			"n",
+			"btn",
+			"nav",
+			"btn",
+			"006600",
+			"$grid-gutter-width",
+			"nav",
+			"nave",
+			"nav",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"mobile_racing_ro",
+			"rc.horse_id",
+			"list",
+			"rc.qry",
+			"rc.struct",
+			"rc.qry",
+			"articlelength",
+			"xwebapp-test.ustrotting.com",
+			"qryHeadlineThree",
+			"qryHeadlineTwo",
+			"",
+			"btn btn-social-icon"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 123.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Build Compressed SASS to Styles Directory.sublime-build",
+	"project": "horsesearch.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 347.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
